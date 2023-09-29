@@ -2,7 +2,6 @@ export type Locale = 'en'
 export const defaultLocale: Locale = 'en'
 
 export * from './app'
-export * from './cms'
 export * from './calendar'
 export * from './content'
 export * from './contentLive'
