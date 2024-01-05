@@ -3569,8 +3569,8 @@ export const en: StaticContent = {
         topic: 'Health, nutrition and exercise',
         question: 'Dizziness during your period is not normal.😵',
         answers: [
-          { text: 'True', emoji: '', isCorrect: false },
-          { text: 'False', emoji: '', isCorrect: true },
+          { text: 'True', emoji: '', isCorrect: true },
+          { text: 'False', emoji: '', isCorrect: false },
           { text: 'NA', emoji: '', isCorrect: false },
         ],
         response: {
